@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2336" started-at="2022-06-05T07:28:35Z" finished-at="2022-06-05T07:28:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2336" started-at="2022-06-05T07:28:35Z" finished-at="2022-06-05T07:28:37Z">
+      <class name="AWS_APIChaining.AWS_EndToEndTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:AWS_APIChaining.AWS_EndToEndTest@569cfc36]" name="test1" duration-ms="2306" started-at="2022-06-05T07:28:35Z" finished-at="2022-06-05T07:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- AWS_APIChaining.AWS_EndToEndTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
